@@ -1,0 +1,135 @@
+body{
+    /* background-image: url("/images/wall.jpg");
+    background-repeat: no-repeat;
+    background-size: contain; */
+    margin: 0;
+    text-align:center;
+    
+    background-color: white;
+}
+h1{
+    color: #438baf;
+    font-size: 5rem;
+    font-family: 'Dancing Script', cursive;
+    line-height: 8rem;
+    margin: 150px auto 0 auto;
+}
+h2,h3{
+    color: #446464;
+    font-size: 2.5rem;
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    font-size: 1.5rem;
+    font-family: 'Inter', sans-serif;
+}
+.top-container{
+    background-color: #6daebc;
+    padding-top:30px;
+    position:relative;
+}
+.profile{
+    width:50%;
+    margin:50px auto;
+    line-height: 3rem;
+}
+.middle-container{
+    margin-top: 150px;
+  
+   
+}
+.bottom-container{
+    background-color: rgb(106, 180, 186);
+    margin-bottom: 0px;
+    margin-top: 50px;
+    padding:50px 0px;
+   
+}
+.skill-row{
+    width: 50%;
+    margin:100px auto;
+    line-height: 3.5rem;
+    text-align: left;
+}
+#pro{
+    font-weight: bolder;
+    text-decoration:underline;
+}
+.top-cloud{
+    position: absolute;
+    right:300px;
+    top:50px;
+}
+.bottom-cloud{
+    position: absolute;
+    left:300px;
+    bottom:220px;
+}
+a{
+    color: #11999E;
+}
+#web-img{
+    width: 25%;
+    float: left;
+    margin-right: 2rem;
+}
+#code-img{
+    width: 25%;
+    float: right;
+    margin-left: 2rem;
+}
+.separators{
+    width:5%;
+    border-style: dotted none none;
+    border-width: 7px;
+    margin:100px auto;
+    
+}
+#bigger{
+    font-size: 3rem;
+}
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: rgb(106, 180, 186);
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    margin: 100px auto;
+  }
+  
+  .btn:hover {
+    background: #6f55e6;
+    text-decoration: none;
+  }
+  .contact-me{
+    margin-bottom: 50px;
+  }
+  #footer-link{
+    font-size: 2rem;
+    color: #254349;
+    text-decoration: none;
+  }
+#footer-link:hover{
+    color: #EAF6F6;
+}
+  .coding-profiles{
+    width: 50%;
+    margin:0 auto;
+  }
+  .code-link{
+    font-size: 2rem;
+    display: block;
+    float: right;
+    position: relative;
+    top:40px;
+    right: 210px;
+  }
+  .code-image{
+    width:15%;
+  }
+ 
+ 
